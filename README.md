@@ -4,10 +4,10 @@ Simple Todo List App:
 Concepts Used:
     This project demonstrates the following concepts in React:
 
--1.State Management: Utilizing React's useState hook to manage component state.
--2.Event Handling: Handling events like key presses (onKeyDown) and button clicks (onClick).
--3.Conditional Rendering: Displaying different content based on conditions.
--4.CSS Styling: Applying styles to components using CSS.
+    1.State Management: Utilizing React's useState hook to manage component state.
+    2.Event Handling: Handling events like key presses (onKeyDown) and button clicks (onClick).
+    3.Conditional Rendering: Displaying different content based on conditions.
+    4.CSS Styling: Applying styles to components using CSS.
 
 
 Usage:
